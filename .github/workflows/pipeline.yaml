@@ -15,7 +15,7 @@ jobs:
         with:
          node-version: 24
 
-      - name: install_depencencies
+      - name: install_dependencies
         run: npm install
 
       - name: Run_tests
